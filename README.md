@@ -18,6 +18,8 @@ This project is currently in development. Users can search for films, and see de
 ## Installation and Setup Instructions
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
+!!! Something went wrong with my git, so there is no node modules file
+
 
 Installation:
 
