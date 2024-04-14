@@ -12,9 +12,8 @@ This project is currently in development. Users can search for films, and see de
 
 #### Example:   
 
-[ PRETEND SCREEN SHOT IS HERE ]
+![image](https://github.com/S4adirrama/Kinopoisk_clone2/assets/131575732/e577280f-a1fe-4380-acf6-9746d780eab1)
 
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
 
 ## Installation and Setup Instructions
 
